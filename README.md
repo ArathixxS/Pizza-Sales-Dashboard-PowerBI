@@ -8,23 +8,23 @@ The dashboard helps understand overall sales performance, popular pizza categori
 
 # Tools and Technologies
 - Microsoft Power BI – Dashboard development and data visualization.
-Power Query – Data cleaning and transformation.
-DAX (Data Analysis Expressions) – Calculated measures and business metrics.
-Data Visualization – Charts, graphs, and KPI cards.
+-Power Query – Data cleaning and transformation.
+-DAX (Data Analysis Expressions) – Calculated measures and business metrics.
+-Data Visualization – Charts, graphs, and KPI cards.
 
 # Key Performance Indicators (KPIs)
-Total Revenue: Total sales generated from pizza orders.
-Total Orders: Number of orders received.
-Total Pizzas Sold: Total quantity of pizzas sold.
-Average Order Value: Average revenue generated per order.
-Average Pizzas Per Order: Average number of pizzas purchased per order.
+-Total Revenue: Total sales generated from pizza orders.
+-Total Orders: Number of orders received.
+-Total Pizzas Sold: Total quantity of pizzas sold.
+-Average Order Value: Average revenue generated per order.
+-Average Pizzas Per Order: Average number of pizzas purchased per order.
 
 # Business Insights
-Which pizza generates the highest revenue?
-Which pizza has the highest sales quantity?
-Which pizza category performs best?
-Which pizza size is ordered most frequently?
-On which days are sales highest?
-Which months generate the most revenue?
-Which pizzas have relatively low sales?
-When should the business focus on promotions?
+-Which pizza generates the highest revenue?
+-Which pizza has the highest sales quantity?
+-Which pizza category performs best?
+-Which pizza size is ordered most frequently?
+-On which days are sales highest?
+-Which months generate the most revenue?
+-Which pizzas have relatively low sales?
+-When should the business focus on promotions?
