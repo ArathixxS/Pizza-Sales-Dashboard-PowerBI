@@ -7,7 +7,7 @@ The Pizza Sales Dashboard is a data visualization and business intelligence proj
 The dashboard helps understand overall sales performance, popular pizza categories, customer ordering patterns, and revenue trends. It enables users to explore sales data and identify business opportunities that can help improve sales performance and decision-making.
 ## 📸 Dashboard Preview
 
-![Pizza Sales Dashboard](dashboard.png)
+![Pizza Sales Dashboard](dashboard.png.png)
 # Tools and Technologies
 - Microsoft Power BI – Dashboard development and data visualization.
 - Power Query – Data cleaning and transformation.
